@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+} 
+ 
+body {
+    font-family: 'Metal Mania', cursive;
+    background: #000
+}
+.bg-navegador {
+    background: #000;
+}
+
+.nav-item {    
+    font-size: 24px;    
+}
+
+.nav-item a{
+    color: #fff
+}
+
+.nav-item a:hover{
+    color: green;
+}
+
+.contenedor h1,
+.contenedor p {
+    color: #fff;
+}
+.h1 {
+    font-size: 45px;
+}
+.suscribete {
+    font-size: 27px;
+}
+
+.btn {
+    font-size: 20px;
+}
+.wacken {
+    width: 100%;
+}
+
+.terminos a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+}
+
+.terminos a:hover {
+    color: green;
+}
+
+.proximos {
+    text-align: center;
+    color: white;
+}
+
+.bg-product {
+    background:#000 ;
+   
+}
+
+.card img {
+    opacity: 0.5;
+    cursor: pointer;
+  }
+  
+  .card img:hover {
+    opacity: 1.0;
+  }
+
+  .card-body > p, h5 {
+    text-align: center;
+  }
+
+.vermas {
+    display: flex;
+    justify-content: center;
+}
+
+.catalogo {
+    color:#fff;
+    text-align: center;
+}
+.carousel-item {
+    transition: transform 2s ease, opacity .5s ease-out;
+}
+
+.music  {
+    padding: 20px;
+}
+
+.lista-item a{
+    color:#fff
+}
+
+.lista-item a:hover{
+    color: green;
+}
+
